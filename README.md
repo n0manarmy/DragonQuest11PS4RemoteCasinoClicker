@@ -16,3 +16,5 @@ Directions: Load up your PS4, run to the slots, set yourself at the slot machine
 From the command prompt run the below script as "python script.py"
 
 The script will run continously until you "ctrl + c" the command line that's running the script
+
+Current release is version 1.0
