@@ -9,6 +9,7 @@ Your system will need to be able to run the PS4 remote play application here: ht
 I wrote this with python 3.6 which will also need to be installed. I needed to install the pypiwin32 libraries to have Windows key command capabilities. This was done by running the below commands. Pip needed to be updated too.
 
 python -m pip install pip
+  
 python -m pip install pypiwin32
 
 Directions: Load up your PS4, run to the slots, set yourself at the slot machine you want to run, and load up the max amount of bets you want to use.
